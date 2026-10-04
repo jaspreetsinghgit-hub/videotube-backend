@@ -1,4 +1,4 @@
-# MyTube Backend
+# VideoTube Backend
 
 A YouTube-inspired backend REST API built with **Node.js, Express.js, MongoDB and Mongoose**.
 
